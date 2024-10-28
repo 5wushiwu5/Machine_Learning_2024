@@ -2,7 +2,7 @@
 
 *NASA2018太空应用挑战赛*
 
-**数据集来源：www.kaggel.com**
+**数据集来源：www.kaggle.com**
 
 **运行环境**
 
